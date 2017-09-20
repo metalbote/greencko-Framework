@@ -1,0 +1,12 @@
+{
+  "name": "metalbote/greencko_framework",
+  "description": "greencko Framework",
+  "type": "project",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Jörg Riemenschneider",
+      "email": "joerg.riemenschneider@gmail.com"
+    }
+  ]
+}
